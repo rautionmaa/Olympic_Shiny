@@ -1,0 +1,12 @@
+name: Olympic_Shiny
+title: Olympic_Shiny
+username:
+account: matthewrautionmaa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 709470
+bundleId: 1870718
+url: https://matthewrautionmaa.shinyapps.io/Olympic_Shiny/
+when: 1549943238.78178
+asMultiple: FALSE
+asStatic: FALSE
